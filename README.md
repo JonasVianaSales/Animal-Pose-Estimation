@@ -32,7 +32,7 @@ Por último, atualizamos a variável `last`, para evitar repetições como dito 
 
 Por fim, eu crio uma função `load_images()` que recebe o pacote de imagens de bovinos, carrega-os da pasta da minha pasta do dataset que está no Drive e mostra uma imagem aleatória, concluindo o pré-processamento e filtragem de dados
 
-![alt text](image.png)
+![alt text](imagens/image.png)
 
 ## 4. Conclusão
 
